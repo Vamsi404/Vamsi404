@@ -31,7 +31,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vamsi-manda-b87151193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Routray-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vamsi-manda-b87151193/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vamsi%20Manda-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vamsimanda0330@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vamsimanda0330@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
