@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer and Information Sciences at University of Florida, Gainesville.
-- 💼 &nbsp; Former Fullstack Developer at Credit Suisse Group AG.
+- 💼 &nbsp; Former Intern at Coratia Technologies.
 - ✍ &nbsp; Designing UIs and drilling CP as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
