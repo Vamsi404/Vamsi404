@@ -1,5 +1,5 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=nishudevil.nishudevil)
-<h2> Hey there 👋 I'm Nishant</h2>
+![](https://visitor-badge.laobi.icu/badge?page_id=Vamsi404.Vamsi404)
+<h2> Hey there 👋 I'm V</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -23,11 +23,9 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 <br/>
 
-![temp](https://github.com/nishudevil/nishudevil/assets/33056648/085baaa4-607e-46bd-8c6f-16615d6a6859)
-
   <h1>
     <a>
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=nishudevil&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishudevil&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Vamsi404&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamsi404&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
     </a>
 </h1>
 
@@ -37,5 +35,4 @@
 <a href="https://www.linkedin.com/in/nishant-routray-081222111/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Routray-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nishant.routray@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nishant.routray@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-[![@nishudevil's Digital badges](https://holopin.me/nishudevil)](https://holopin.io/@nishudevil)  
 </p>
